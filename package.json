@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-soundtouch",
+  "version": "3.0.1-dev",
+  "description": "Cordova SoundTouch Plugin",
+  "cordova": {
+    "id": "cordova-plugin-soundtouch",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "soundtouch",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=3.6.0"
+    }
+  ],
+  "author": "Apache Software Foundation",
+  "license": "Apache 2.0"
+}
